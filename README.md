@@ -28,8 +28,7 @@ RFM is the determination of some metrics based on the shopping behaviours of cus
 <img src="https://www.perceptive.co.nz/hs-fs/hubfs/Perceptive_Resources/Campaign_13/Blog_images/C13-Blog2-RFM-modelling.png?width=830&name=C13-Blog2-RFM-modelling.png" width="400"/>
 </p>
 <p>
-<img src="https://www.saksoft.com/wp-content/uploads/2020/01/creating-buyer-personas.jpg
-" width="400"/>
+<img src="https://www.saksoft.com/wp-content/uploads/2020/01/creating-buyer-personas.jpg" width="400"/>
 </p>
 
 
