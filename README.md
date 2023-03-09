@@ -1,4 +1,4 @@
-<p align="center" style="font-family:Courier;">
+<p align="center" style="font-weight: bold;">
   Customer Segmentation witt RFM Analysis
 </p>
 </br>
