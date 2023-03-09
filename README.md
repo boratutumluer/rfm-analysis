@@ -8,7 +8,7 @@
 
 <h3>What is customer segmentation?</h3>
 <p>
-The basic definition of customer segmentation is the process of organizing customers into specific groups based on shared characteristics, behaviors, or preferences,  
+The basic definition of customer segmentation is the process of organizing customers into specific groups based on shared characteristics, behaviors, or preferences.  
 </p>
 <h3>How can we do this segmentation?</h3>
 <p>
