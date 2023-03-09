@@ -12,7 +12,7 @@ The basic definition of customer segmentation is the process of organizing custo
 </p>
 <h3>How can we do this segmentation?</h3>
 <p>
-Basically, there are two methods for observing business problems such as customer retention, customer loss analysis (churn), customer finding and acqusition efforts based on KPIs metrics in data science and business world, these are RFM anaylsis and CLTV (customer lifetime value) prediction. we'll use RFM analysis in this project with Olist dataset that has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil
+Basically, there are two methods for observing business problems such as customer retention, customer loss analysis (churn), customer finding and acqusition efforts based on KPIs metrics in data science and business world, these are RFM anaylsis and CLTV (customer lifetime value) prediction. We'll use RFM analysis in this project with Olist dataset that has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil
 </p>
 <h3>Okey, what is RFM by the way?</h3>
 <p>
