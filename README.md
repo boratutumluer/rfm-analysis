@@ -18,7 +18,7 @@ Basically, there are two methods for observing business problems such as custome
 <p">
 RFM is the determination of some metrics based on the shopping behaviours of customers in the past, and the creation of scores based on these metrics. Here is that metrics I emphasize:
 <p align="center">
-<img src="[https://d35fo82fjcw0y8.cloudfront.net/2018/03/01013508/Incontent_image.png](https://www.perceptive.co.nz/hs-fs/hubfs/Perceptive_Resources/Campaign_13/Blog_images/C13-Blog2-RFM-modelling.png?width=830&name=C13-Blog2-RFM-modelling.png)" width="600"/>
+<img src="https://www.perceptive.co.nz/hs-fs/hubfs/Perceptive_Resources/Campaign_13/Blog_images/C13-Blog2-RFM-modelling.png?width=830&name=C13-Blog2-RFM-modelling.png" width="400"/>
 </p>
 </p>
 <ul>
