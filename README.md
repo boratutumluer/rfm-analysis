@@ -24,7 +24,7 @@ RFM is the determination of some metrics based on the shopping behaviours of cus
   <li><strong>Monetary:</strong> The money of customers spends on purchase, total or average transaction value </li>
 </ul>
 </br>
-<p>
+<p align="center">
   <img src="https://www.perceptive.co.nz/hs-fs/hubfs/Perceptive_Resources/Campaign_13/Blog_images/C13-Blog2-RFM-modelling.png?width=830&name=C13-Blog2-RFM-modelling.png" width="400"/>
 </p>
 
