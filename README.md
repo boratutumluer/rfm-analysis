@@ -20,7 +20,7 @@ RFM is the determination of some metrics based on the shopping behaviours of cus
 </p>
 <ul>
   <li><strong>Recency:</strong> The freshness of the customers activity, time since last order</li>
-  <li><strong>Frequency:</strong> The frequency of customers transacitons or visits, total number of transaction</li>
+  <li><strong>Frequency:</strong> The frequency of customers transactions or visits, total number of transaction</li>
   <li><strong>Monetary:</strong> The money of customers spends on purchase, total or average transaction value </li>
 </ul>
 </br>
