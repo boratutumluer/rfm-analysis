@@ -19,10 +19,11 @@ Basically, there are two methods for observing business problems such as custome
 RFM is the determination of some metrics based on the shopping behaviours of customers in the past, and the creation of scores based on these metrics. Here is that metrics I emphasize:
 
 <ul>
-  <li><strong>Recency:</strong> </li>
-  <li><strong>Frequency:</strong> </li>
-  <li><strong>Monetary:</strong> </li>
+  <li><strong>Recency:</strong> The freshness of the customers activity, time since last order</li>
+  <li><strong>Frequency:</strong> The frequecny of customers transacitons or visits, total number of transaction</li>
+  <li><strong>Monetary:</strong> The money of customers spends on purchase, total or average transaction value </li>
 </ul>
+</br>
 <p align="center">
 <img src="https://www.perceptive.co.nz/hs-fs/hubfs/Perceptive_Resources/Campaign_13/Blog_images/C13-Blog2-RFM-modelling.png?width=830&name=C13-Blog2-RFM-modelling.png" width="400"/>
 
